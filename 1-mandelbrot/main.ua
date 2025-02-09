@@ -17,4 +17,4 @@ ToPixel ← ⍣(
 Iterations ← ◌:◌: ⌵ ⍢(⊙(+⊙.×.) +1|× ⊙(<100⌵) <I) 0 (ℂ 0 0)
 Img        ← ∵(ToPixel Iterations) ⊞ℂ ∩(÷S -0.5 ÷H) ⊓(-Oy)(-Ox) ⇡H⇡W
 
-&fwa "./output/mandelbrot.png" img "png" Img
+&fwa "./1-mandelbrot/output.png" img "png" Img
