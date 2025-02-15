@@ -32,7 +32,12 @@
         <img src="4-im-a-sinner/output-400.gif?raw=true" />
       </a>
     </td>
-    <td width="50%" valign="top"></td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="5-polyrhythms/main.ua">Polyrhythms music generation</a>
+      </h3>
+      https://github.com/phenax/uiua-playground/raw/refs/heads/main/5-polyrhythms/output.mp4
+    </td>
   </tr>
 </table>
 
