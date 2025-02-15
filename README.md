@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="1-mandelbrot/main.ua">Mandelbrot set fractal</a></h3>
+      <h3><a href="1-mandelbrot/main.ua">Mandelbrot Set</a></h3>
       <img src="1-mandelbrot/output-1080.png" />
     </td>
     <td width="50%" valign="top">
@@ -36,6 +36,15 @@
 https://github.com/user-attachments/assets/18ce9a04-b597-4340-876d-8585a054c6ad
 
 &nbsp;
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="6-julia/main.ua">Julia Set</a></h3>
+      <img src="6-julia/output-600.gif?raw=true" />
+    </td>
+    <td width="50%" valign="top">
     </td>
   </tr>
 </table>
