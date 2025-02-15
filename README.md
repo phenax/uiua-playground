@@ -30,10 +30,10 @@
     </td>
     <td width="50%" valign="top">
       <h3>
-        <a href="5-polyrhythms/main.ua">Polyrhythms music generation</a>
+        <a href="5-polyrhythms/main.ua">Polyrhythms</a>
       </h3>
 
-https://github.com/user-attachments/assets/18ce9a04-b597-4340-876d-8585a054c6ad
+https://github.com/user-attachments/assets/37e38ccf-5e7e-47e5-ba3e-1bc216b7ff2f
 
 &nbsp;
     </td>
