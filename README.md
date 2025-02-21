@@ -45,6 +45,8 @@ https://github.com/user-attachments/assets/37e38ccf-5e7e-47e5-ba3e-1bc216b7ff2f
       <img src="6-julia/output-600.gif?raw=true" />
     </td>
     <td width="50%" valign="top">
+      <h3><a href="7-dan-flashes/main.ua">More sins</a></h3>
+      <img src="7-dan-flashes/output.gif?raw=true" />
     </td>
   </tr>
 </table>
